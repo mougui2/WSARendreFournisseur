@@ -13,7 +13,7 @@ import javax.jws.WebParam;
  *
  * @author Morgan
  */
-@WebService(serviceName = "Metar")
+@WebService(serviceName = "MetarWS")
 public class Metar {
 
     /**
